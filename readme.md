@@ -49,4 +49,7 @@ The goal is to prevent the ball from passing your paddle. The game ends when eit
 
 Feel free for any modifications.Happy Coding.
 
+Picture of  the game
+![Doc2](https://github.com/user-attachments/assets/889a30ba-c7b7-4245-b49e-104a9a504876)
+
 Developed By Rishab Pradhan
